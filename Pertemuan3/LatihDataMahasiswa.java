@@ -29,3 +29,6 @@ public class LatihDataMahasiswa {
 }
 
 }
+// Nama : Dwi Nayla Cintia
+// NIM : D1041241017
+// Tanggal : 13 Februari 2026
