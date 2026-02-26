@@ -29,6 +29,10 @@ public class LatihanRefleksi {
 }
 
 }
+// Menurut saya jenis loop yang paling mudah dipahami adalah for loop 
+// karena semua elemen penting dari loop (inisialisasi, kondisi, dan increment) berada dalam satu baris, sehingga lebih mudah untuk melihat struktur loop secara keseluruhan. 
+// Selain itu, for loop sangat cocok untuk iterasi yang jumlahnya sudah diketahui sebelumnya, seperti mencetak angka dari 1 hingga 5.
+
 // Nama : Dwi Nayla Cintia
 // NIM : D1041241017
 // Kelas : B
